@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com:RomanYaresko/react-boilerplate.git
+	url = git@github.com:OpenProjectsCluster/pma-frontend.git
 [submodule "backend"]
 	path = backend
-	url = git@github.com:RomanYaresko/drf-boilerplate.git
+	url = git@github.com:OpenProjectsCluster/pma-backend.git
